@@ -4,7 +4,7 @@ It can be seen the if **T moves 1st** , **h moves 2nd**, and **then e moves thir
 
 So, a python code making these needs to be written
 
-![](picoCTF/Cryptography/Transpositional-Trial.png)
+![](Images/Transpositional-Trial.png)
 
 The flag is <mark class="hltr-green">picoctf{7R4N5P051N6_15_3Xp3N51V3_109AB02E}</mark>
 
